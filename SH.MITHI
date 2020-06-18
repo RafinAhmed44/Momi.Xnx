@@ -149,7 +149,7 @@ def menu():
     print '\x1b[1;97m\xe2\x95\x9a' + 40 * '\xe2\x95\x90'
     print '\x1b[1;37;40m1. Information Ckecking'
     print '\x1b[1;37;40m2. Hack Target Facebook'
-    print '\x1b[1;37;40m3. Auto Like'
+    print '\x1b[1;37;40m3. Post Reactions SH'
     print '\x1b[1;37;40m4. SH Rafin....        '
     print '\x1b[1;37;40m5. LogOut SH'
     print '\x1b[1;31;40m0. Keluar              '
@@ -272,9 +272,9 @@ def menu_hack():
     print logo
     print 40 * '\x1b[1;97m\xe2\x95\x90'
     print '\x1b[1;37;40m1. Mini Hack Facebook(\x1b[1;92mTarget\x1b[1;97m)'
-    print '\x1b[1;37;40m2. Multi Bruteforce Facebook'
-    print '\x1b[1;37;40m3. Super Multi Bruteforce Facebook'
-    print '\x1b[1;37;40m4. BruteForce(\x1b[1;92mTarget\x1b[1;97m)'
+    print '\x1b[1;37;40m2. Multi File Facebook'
+    print '\x1b[1;37;40m3. Any Group/Your Fans Checking'
+    print '\x1b[1;37;40m4. Any Id(\x1b[1;92mTarget\x1b[1;97m)'
     print '\x1b[1;37;40m5. Yahoo Checker'
     print '\x1b[1;37;40m6. Your id/email/hp'
     print '\x1b[1;31;40m0. Kembali'
@@ -537,7 +537,7 @@ def super():
     print logo
     print 40 * '\x1b[1;97m\xe2\x95\x90'
     print '\x1b[1;37;40m1. Check Your Id Fans'
-    print '\x1b[1;37;40m2. Check  any Public Group'
+    print '\x1b[1;37;40m2. Check any Public Group'
     print '\x1b[1;31;40m0. Kembali'
     print
     pilih_super()
